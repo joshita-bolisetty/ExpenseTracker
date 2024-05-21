@@ -1,0 +1,26 @@
+Dear Students,
+
+Make sure to submit a detailed project report (SOFTCOPY ONLY) well before project presentation.
+
+Project Report should contain the following (in order):-
+•Front page
+•Index page
+•Abstract
+•Introduction
+•Background information 
+•Details about Python concepts used (List and explain)
+•Methodology (design)
+•Implementation
+•Results
+•Conclusion
+•References
+
+Use necessary diagrams wherever applicable
+
+Report Submission Link:- https://forms.office.com/r/GWKbDNs2xe
+
+
+With Best wishes,
+Veena K M
+AP lab co-ordinator 2023
+MIT, Manipal
